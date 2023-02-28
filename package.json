@@ -1,0 +1,29 @@
+{
+  "name": "fv-editor",
+  "version": "1.0.0",
+  "description": "Advanced WYSIWYG HTML editor designed to simplify website content creation",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuturaVision/fv-editor"
+  },
+  "keywords": [
+    "editor",
+    "javascript",
+    "WYSIWYG"
+  ],
+  "author": "[BlakvGhost, v1p3r]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuturaVision/fv-editor/issues"
+  },
+  "homepage": "https://github.com/FuturaVision/fv-editor#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
+  }
+}
